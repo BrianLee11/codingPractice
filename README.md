@@ -2,8 +2,9 @@
 
 A personal coding playground for exploring and practicing multiple programming languages.
 
-## 🛠 Languages Covered
+## 🛠 Languages Covered 
 
+Language and purposes
 - **Python** – scripting, data analysis, ML projects
 - **C#** – console apps, OOP practice, .NET projects
 - **Java** – core language features, algorithms
