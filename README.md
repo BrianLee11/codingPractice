@@ -4,10 +4,10 @@ A personal coding playground for exploring and practicing multiple programming l
 
 ## 🛠 Languages Covered 
 
-Language and purposes
+Languages and purposes
 - **Python** – scripting, data analysis, ML projects
 - **C#** – console apps, OOP practice, .NET projects
-- **Java** – core language features, algorithms
+- **Java** – core language features, OOP practice, algorithms
 - **C/C++** – systems programming, performance tuning
 
 ## 📁 Folder Structure
