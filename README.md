@@ -1,4 +1,4 @@
-# codingPractice
+# coding practices (Python, C#, Java, C/C++)
 
 A personal coding playground for exploring and practicing multiple programming languages.
 
