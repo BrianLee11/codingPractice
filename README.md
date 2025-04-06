@@ -30,4 +30,3 @@ Languages and purposes:
 ---
 
 *Happy Coding!* 😄
-d
