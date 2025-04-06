@@ -13,12 +13,6 @@ Languages and purposes:
 - **R** – statistical computing, data visualization, and reporting with R Markdown
 
 ---
-
-## 📁 Folder Structure
-*(to be continued)*
-
----
-
 ## 📌 Purpose
 
 - Build fluency across multiple languages
@@ -26,6 +20,10 @@ Languages and purposes:
 - Practice algorithms, OOP, and file I/O
 - Work with databases using real-world queries
 - Serve as a reference and learning archive
+---
+
+## 📁 Folder Structure
+*(to be continued)*
 
 ---
 
