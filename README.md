@@ -1,4 +1,4 @@
-# coding practices (Python, C#, Java, C/C++, SQL)
+# coding practices (Python, C#, Java, C/C++, SQL, R)
 
 A personal coding playground for exploring and practicing multiple programming languages.
 
@@ -10,12 +10,12 @@ Languages and purposes:
 - **Java** – core language features, OOP practice, algorithms
 - **C/C++** – systems programming, performance tuning
 - **SQL** – data modeling, querying, and relational database practice
+- **R** – statistical computing, data visualization, and reporting with R Markdown
 
 ---
 
 ## 📁 Folder Structure
 *(to be continued)*
-
 
 ---
 
