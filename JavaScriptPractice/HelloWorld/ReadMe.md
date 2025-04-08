@@ -87,4 +87,4 @@ This selects the first `<h1>` and changes its content — showing the power of t
 
 ```text
 Hello World from JavaScript!
-
+```
