@@ -52,6 +52,6 @@ data['age'] += 1
 new_json = json.dumps(data, indent=2)
 print(new_json)
 
-json_data = '''{ "name": "Alice", "age": 29 }'''
+{ "name": "Alice", "age": 29 }
 ```
 
