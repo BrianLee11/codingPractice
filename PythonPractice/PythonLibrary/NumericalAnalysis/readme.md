@@ -5,6 +5,7 @@ to essential Python libraries for numerical analysis and data manipulation.
 
 - **NumPy** 
 - **Pandas**.
+- etc 
 
 ---
 

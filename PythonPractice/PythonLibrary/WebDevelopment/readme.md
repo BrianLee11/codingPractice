@@ -1,7 +1,11 @@
 # 🌐 Python Libraries for Web Development
 
-This section introduces two of the most popular Python web development frameworks: **Flask** and **Django**.  
-You’ll find simple examples, project templates, and a high-level comparison between the two.
+This section introduces Python web development frameworks:
+- **Flask** 
+- **Django**
+- etc
+
+You’ll find simple examples and project templates.
 
 ---
 
