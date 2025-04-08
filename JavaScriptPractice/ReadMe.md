@@ -1,1 +1,0 @@
-# Space for practicing JavaScript
