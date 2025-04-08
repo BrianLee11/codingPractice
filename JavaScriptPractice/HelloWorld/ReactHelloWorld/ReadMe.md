@@ -1,4 +1,4 @@
-# React Hello World
+# Printing "Hello World from React"
 
 A simple "Hello World" example using React, loaded via CDN — no build tools required.
 
