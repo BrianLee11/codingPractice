@@ -1,29 +1,34 @@
-# coding practices (Python, C#, Java, C/C++, SQL, R)
+# 💻 Personal Coding Playground
 
-A personal coding playground for exploring and practicing multiple programming languages.
-
-## 🛠 Languages Covered 
-
-Languages and purposes:
-- **Python** – scripting, data analysis, machine learning projects
-- **C#** – console apps, OOP practice, .NET development
-- **Java** – core language features, OOP practice, algorithms
-- **C/C++** – systems programming, performance tuning
-- **SQL** – data modeling, querying, and relational database practice
-- **R** – statistical computing, data visualization, and reporting with R Markdown
+A hands-on space to explore, experiment, and build fluency in multiple programming languages through real-world coding practice.
 
 ---
+
+## 🛠 Languages Covered
+
+### Core Languages & Use Cases:
+
+- **Python** – scripting, data analysis, machine learning prototypes  
+- **C#** – console applications, OOP exercises, .NET development  
+- **Java** – language fundamentals, algorithms, object-oriented design  
+- **C/C++** – systems-level programming, performance optimization  
+- **SQL** – relational data modeling, query design, real-world datasets  
+- **R** – statistical computing, data visualization, R Markdown reporting  
+- **JavaScript** – DOM manipulation, dynamic content, browser scripting  
+
+### Additional Tools:
+
+- **JSON** – lightweight data exchange format used across APIs and configs  
+
+---
+
 ## 📌 Purpose
 
-- Build fluency across multiple languages
-- Explore syntax differences and design patterns
-- Practice algorithms, OOP, and file I/O
-- Work with databases using real-world queries
-- Serve as a reference and learning archive
----
-
-## 📁 Folder Structure
-*(to be continued)*
+- Strengthen cross-language fluency and problem-solving skills  
+- Compare syntax and explore common design patterns  
+- Practice data structures, algorithms, and file I/O  
+- Build working knowledge of databases through practical queries  
+- Maintain a personal reference and knowledge archive for long-term learning  
 
 ---
 
