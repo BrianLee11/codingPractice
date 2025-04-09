@@ -1,3 +1,5 @@
-# readme.md for practicing python coding skills using examples from books
+# 🐍 Python Practice Repository
 
-- "300 Python Questions"
+This repository contains Python coding exercises based on examples from textbooks.
+
+- 📘 Book 1: *"Do it! 300 Python Exercises"*
