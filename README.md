@@ -21,7 +21,15 @@ A hands-on space to explore, experiment, and build fluency in multiple programmi
 - **JSON** – lightweight data exchange format used across APIs and configs  
 
 ---
+## Concepts
+- **OOP(Object-Oriented Programming)**
 
+
+---
+## Online Learning sites
+1. Edube https://edube.org/
+
+---
 ## 📌 Purpose
 
 - Strengthen cross-language fluency and problem-solving skills  

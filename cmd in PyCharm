@@ -1,0 +1,11 @@
+cmd
+
+D:\Brian\PythonLab\codingPractice>rmdir /S /Q .venv
+
+D:\Brian\PythonLab\codingPractice>python -m venv .venv
+
+D:\Brian\PythonLab\codingPractice>.venv\Scripts\activate.bat
+
+pip install notebook
+jupyter notebook
+
