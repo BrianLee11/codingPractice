@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="/images/c.svg" alt="C Logo" height="120">
   <img src="../images/cplusplus.svg" alt="C++ Logo" height="120">
   <img src="../images/csharp.svg" alt="C# Logo" height="120">
   <img src="../images/java.svg" alt="Java Logo" height="120">
@@ -17,13 +18,13 @@
 ## 🛠 Languages Covered
 
 ### Core Languages & Use Cases:
-- **Python** – scripting, data analysis, machine learning prototypes
+- **C/C++** – systems-level programming, performance optimization
 - **C#** – console applications, OOP exercises, .NET development  
-- **Java** – language fundamentals, algorithms, object-oriented design  
-- **C/C++** – systems-level programming, performance optimization  
-- **SQL** – relational data modeling, query design, real-world datasets  
-- **R** – statistical computing, data visualization, R Markdown reporting  
+- **Java** – language fundamentals, algorithms, object-oriented design
 - **JavaScript** – DOM manipulation, dynamic content, browser scripting  
+- **Python** – scripting, data analysis, machine learning prototypes  
+- **R** – statistical computing, data visualization, R Markdown reporting  
+- **SQL** – relational data modeling, query design, real-world datasets  
 
 ### Additional Tools:
 
