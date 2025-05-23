@@ -5,6 +5,20 @@ A hands-on space to explore, experiment, and build fluency in multiple programmi
 ---
 
 ## 🛠 Languages Covered
+<p align="center">
+  <img src="/images/cplusplus.svg" alt="C++ Logo" height="120">
+  <img src="/images/csharp.svg" alt="C# Logo" height="120">
+  <img src="/images/java.svg" alt="Java Logo" height="120">
+  <img src="/images/javascript.svg" alt="JavaScript Logo" height="120">
+  <img src="/images/json.svg" alt="JSON Logo" height="120">
+  <img src="/images/python.svg" alt="Python Logo" height="120">
+  <img src="/images/r.png" alt="R Logo" height="120">
+  <img src="/images/mysql.svg" alt="SQL Logo" height="120">
+</p>
+
+<p align="center">
+  <em>Programming language logos used under fair use from <a href="https://github.com/bablubambal/All_logo_and_pictures/tree/main/others">this GitHub repository</a>.</em>
+</p>
 
 ### Core Languages & Use Cases:
 
