@@ -13,7 +13,7 @@
 <p align="center">
   <em>Programming language logos used under fair use from <a href="https://github.com/bablubambal/All_logo_and_pictures/tree/main/others">this GitHub repository</a>.</em>
 </p>
----
+
 
 ## 🛠 Languages Covered
 
