@@ -1,8 +1,8 @@
-# Install script for directory: D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_완전정복/chapter2_variable_operator/02_01_01_InputOutput
+# Install script for directory: D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_완전정복/chapter2_variable_operator/02_01_02_IO_using_namespace
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/02_01_InputOutput")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/02_01_02_IO_using_namespace")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_완전정복/chapter2_variable_operator/02_01_01_InputOutput/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_완전정복/chapter2_variable_operator/02_01_02_IO_using_namespace/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

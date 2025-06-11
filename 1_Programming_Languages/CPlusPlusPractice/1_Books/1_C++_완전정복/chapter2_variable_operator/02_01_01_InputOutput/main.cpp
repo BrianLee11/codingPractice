@@ -15,13 +15,13 @@
 int main() {
     // 변수 선언
     int i, j;
-    std::cout << "Enter number_1: "; // 문자열 "Enter number 1: " 출력
+    std::cout << "Enter number_1:  "; // 문자열 "Enter number 1: " 출력
     std::cin >> i;                   // 사용자에게 정수를 입력받아, 변수 i에 저장
 
-    std::cout << "Enter number_2: "; // 문자열 "Enter number 2: " 출력
+    std::cout << "Enter number_2:  "; // 문자열 "Enter number 2: " 출력
     std::cin >> j;                   // 사용자에게 정수를 입력받아, 변수 j에 저장
 
-    std::cout << "num_1 + num2 = " << i + j << std::endl; // 두 수의 합 출력
+    std::cout << "number_1 + number_2 = " << i + j << std::endl; // 두 수의 합 출력
 
     return 0;
 }

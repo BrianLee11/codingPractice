@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "02_01_02_IO_using_namespace",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "02_01_02_IO_using_namespace::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_01_02_IO_using_namespace-Debug-41ebfc2051fbdd3e1418.json",
+					"name" : "02_01_02_IO_using_namespace",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_\uc644\uc804\uc815\ubcf5/chapter2_variable_operator/02_01_02_IO_using_namespace/cmake-build-debug",
+		"source" : "D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_\uc644\uc804\uc815\ubcf5/chapter2_variable_operator/02_01_02_IO_using_namespace"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_\uc644\uc804\uc815\ubcf5/chapter2_variable_operator/02_01_InputOutput/cmake-build-debug"
+			"value" : "D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_\uc644\uc804\uc815\ubcf5/chapter2_variable_operator/02_01_01_InputOutput/cmake-build-debug"
 		},
 		{
 			"name" : "02_01_InputOutput_IS_TOP_LEVEL",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_\uc644\uc804\uc815\ubcf5/chapter2_variable_operator/02_01_InputOutput"
+			"value" : "D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_\uc644\uc804\uc815\ubcf5/chapter2_variable_operator/02_01_01_InputOutput"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_\uc644\uc804\uc815\ubcf5/chapter2_variable_operator/02_01_InputOutput/cmake-build-debug"
+			"value" : "d:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_\uc644\uc804\uc815\ubcf5/chapter2_variable_operator/02_01_01_InputOutput/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -611,7 +611,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_\uc644\uc804\uc815\ubcf5/chapter2_variable_operator/02_01_InputOutput/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_\uc644\uc804\uc815\ubcf5/chapter2_variable_operator/02_01_01_InputOutput/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -683,7 +683,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_\uc644\uc804\uc815\ubcf5/chapter2_variable_operator/02_01_InputOutput"
+			"value" : "D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_\uc644\uc804\uc815\ubcf5/chapter2_variable_operator/02_01_01_InputOutput"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",

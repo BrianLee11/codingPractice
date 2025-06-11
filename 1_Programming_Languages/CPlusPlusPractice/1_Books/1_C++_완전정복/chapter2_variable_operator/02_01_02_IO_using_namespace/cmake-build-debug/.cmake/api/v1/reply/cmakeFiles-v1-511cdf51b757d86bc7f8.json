@@ -817,8 +817,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_\uc644\uc804\uc815\ubcf5/chapter2_variable_operator/02_01_InputOutput/cmake-build-debug",
-		"source" : "D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_\uc644\uc804\uc815\ubcf5/chapter2_variable_operator/02_01_InputOutput"
+		"build" : "D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_\uc644\uc804\uc815\ubcf5/chapter2_variable_operator/02_01_02_IO_using_namespace/cmake-build-debug",
+		"source" : "D:/Brian/PythonLab/codingPractice/1_Programming_Languages/CPlusPlusPractice/1_Books/1_C++_\uc644\uc804\uc815\ubcf5/chapter2_variable_operator/02_01_02_IO_using_namespace"
 	},
 	"version" : 
 	{
