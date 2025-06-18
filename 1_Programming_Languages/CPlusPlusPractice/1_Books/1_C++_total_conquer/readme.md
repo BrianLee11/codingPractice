@@ -15,4 +15,4 @@
 - 넷째마당: 모던 C++ 프로그래밍
 
 
-<img src="images/CPlusPlus_conquer.jpg">
+![C++ 완전 정복](images/CPlusPlus_Conquer.jpg)
