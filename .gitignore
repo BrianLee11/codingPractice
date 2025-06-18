@@ -4,3 +4,9 @@
 .venv/
 .idea/
 .ipynb_checkpoints/
+
+# Ignore all cmake build folders
+**/cmake-build-*/
+**/.idea/
+**/.ninja_log
+**/.cmake/

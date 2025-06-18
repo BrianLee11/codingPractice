@@ -37,12 +37,10 @@ A hands-on space to explore, experiment, and build fluency in multiple programmi
 
 ---
 ## Concepts
-- **OOP(Object-Oriented Programming)**
+- 1. **OOP(Object-Oriented Programming)**
+- 2. **Data Structure** 
 
 
----
-## Online Learning sites
-1. Edube https://edube.org/
 
 ---
 ## 📌 Purpose
