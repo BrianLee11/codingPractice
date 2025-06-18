@@ -1,1 +1,18 @@
-<img src="images\CPlusPlus_conquer.jpg">
+# Do it! C++ 완전 정복
+
+- 첫째 마당: C++ 프로그래밍 기초  
+  1. C++ 프로그래밍 시작하기  
+  2. 변수와 연산자  
+  3. 포인터와 메모리 구조  
+  4. 실행 흐름 제어  
+  5. 예외 처리하기  
+
+
+
+
+- 둘째 마당: 객체지향 프로그래밍
+- 셋째마당: 라이브러리 활용
+- 넷째마당: 모던 C++ 프로그래밍
+
+
+<img src="images/CPlusPlus_conquer.jpg">
